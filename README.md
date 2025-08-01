@@ -9,4 +9,7 @@ This is a simple chatbot built using **Google's Gemini 1.5 Flash model** and **S
 Install the required libraries using:
 
 ```bash
-pip install streamlit python-dotenv google-generativeai pillow
+pip install streamlit python-dotenv google-generativeai pillow ```
+
+
+# 🧪 How to Run
