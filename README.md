@@ -27,19 +27,19 @@ streamlit run app.py
 3. On submission, pass the text and image to the Gemini model.
 4. Display the model's response below the form.
 
+## 🖼️ Example Use Cases
 
-# 🖼️ Example Use Cases
-**Text + Image**<br>
-  Prompt: "Describe what's happening in this image."<br>
-  Image: Upload a photo of a person cooking.<br>
-  Response: The chatbot will describe the scene, like "A person is cooking vegetables in a modern kitchen."<br>
+### Text + Image  
+&emsp;**Prompt**: "Describe what's happening in this image."  
+&emsp;**Image**: Upload a photo of a person cooking.  
+&emsp;**Response**: The chatbot will describe the scene, like "A person is cooking vegetables in a modern kitchen."
 
-**Text Only**<br>
-  Prompt: "Tell me a bedtime story about a robot and a cat."<br>
-  Image: Leave blank.<br>
-  Response: A short, creative bedtime story is generated.<br>
+### Text Only  
+&emsp;**Prompt**: "Tell me a bedtime story about a robot and a cat."  
+&emsp;**Image**: Leave blank.  
+&emsp;**Response**: A short, creative bedtime story is generated.
 
-**Image Only**<br>
-  Prompt: Leave blank.<br>
-  Image: Upload an image of a flower.<br>
-  Response: The chatbot may respond with something like "This appears to be a sunflower, commonly found in summer gardens."<br>
+### Image Only  
+&emsp;**Prompt**: Leave blank.  
+&emsp;**Image**: Upload an image of a flower.  
+&emsp;**Response**: The chatbot may respond with something like "This appears to be a sunflower, commonly found in summer gardens."
