@@ -13,7 +13,7 @@ pip install streamlit python-dotenv google-generativeai pillow
 ```
 
 
-## 🧪 How to Run
+## 🚀 How to Run
 To run the chatbot locally:
 
 ```bash
@@ -21,13 +21,13 @@ streamlit run app.py
 ```
 
 
-## 💡 How It Works
+## 🧠 How It Works
 1. Load your API key securely with dotenv.
 2. Use streamlit to build the UI with a text input and image uploader.
 3. On submission, pass the text and image to the Gemini model.
 4. Display the model's response below the form.
 
-## 🖼️ Example Use Cases
+## 🎯 Example Use Cases
 
 ### Text + Image  
 •&emsp;**Prompt**: "Describe what's happening in this image."  
@@ -45,7 +45,7 @@ streamlit run app.py
 •&emsp;**Response**: The chatbot may respond with something like "This appears to be a sunflower, commonly found in summer gardens."
 
 
-## 📌 Notes
+## 📝 Notes
 •&emsp;The chatbot uses the gemini-1.5-flash model, which is optimized for both performance and cost.<br>
 •&emsp;Works best when both image and prompt are provided.<br>
 •&emsp;Make sure your image is under the supported formats: .jpg, .jpeg, .png.<br>
