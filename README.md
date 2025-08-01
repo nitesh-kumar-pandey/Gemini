@@ -30,22 +30,22 @@ streamlit run app.py
 ## 🖼️ Example Use Cases
 
 ### Text + Image  
-&emsp;**Prompt**: "Describe what's happening in this image."  
-&emsp;**Image**: Upload a photo of a person cooking.  
-&emsp;**Response**: The chatbot will describe the scene, like "A person is cooking vegetables in a modern kitchen."
+•&emsp;**Prompt**: "Describe what's happening in this image."  
+•&emsp;**Image**: Upload a photo of a person cooking.  
+•&emsp;**Response**: The chatbot will describe the scene, like "A person is cooking vegetables in a modern kitchen."
 
 ### Text Only  
-&emsp;**Prompt**: "Tell me a bedtime story about a robot and a cat."  
-&emsp;**Image**: Leave blank.  
-&emsp;**Response**: A short, creative bedtime story is generated.
+•&emsp;**Prompt**: "Tell me a bedtime story about a robot and a cat."  
+•&emsp;**Image**: Leave blank.  
+•&emsp;**Response**: A short, creative bedtime story is generated.
 
 ### Image Only  
-&emsp;**Prompt**: Leave blank.  
-&emsp;**Image**: Upload an image of a flower.  
-&emsp;**Response**: The chatbot may respond with something like "This appears to be a sunflower, commonly found in summer gardens."
+•&emsp;**Prompt**: Leave blank.  
+•&emsp;**Image**: Upload an image of a flower.  
+•&emsp;**Response**: The chatbot may respond with something like "This appears to be a sunflower, commonly found in summer gardens."
 
 
 ## 📌 Notes
-&emsp;The chatbot uses the gemini-1.5-flash model, which is optimized for both performance and cost.
-&emsp;Works best when both image and prompt are provided.
-&emsp;Make sure your image is under the supported formats: .jpg, .jpeg, .png.
+•&emsp;The chatbot uses the gemini-1.5-flash model, which is optimized for both performance and cost.<br>
+•&emsp;Works best when both image and prompt are provided.<br>
+•&emsp;Make sure your image is under the supported formats: .jpg, .jpeg, .png.<br>
