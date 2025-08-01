@@ -43,3 +43,9 @@ streamlit run app.py
 &emsp;**Prompt**: Leave blank.  
 &emsp;**Image**: Upload an image of a flower.  
 &emsp;**Response**: The chatbot may respond with something like "This appears to be a sunflower, commonly found in summer gardens."
+
+
+## 📌 Notes
+&emsp;The chatbot uses the gemini-1.5-flash model, which is optimized for both performance and cost.
+&emsp;Works best when both image and prompt are provided.
+&emsp;Make sure your image is under the supported formats: .jpg, .jpeg, .png.
