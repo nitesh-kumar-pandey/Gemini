@@ -27,7 +27,7 @@ streamlit run app.py
 3. On submission, pass the text and image to the Gemini model.
 4. Display the model's response below the form.
 
-## 🖼️ Example Use Cases
+# 🖼️ Example Use Cases
 
 ### Text + Image  
 &emsp;**Prompt**: "Describe what's happening in this image."  
