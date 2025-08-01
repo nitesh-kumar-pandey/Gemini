@@ -29,17 +29,17 @@ streamlit run app.py
 
 
 # 🖼️ Example Use Cases
-**Text + Image**
-  Prompt: "Describe what's happening in this image."
-  Image: Upload a photo of a person cooking.
-  Response: The chatbot will describe the scene, like "A person is cooking vegetables in a modern kitchen."
+**Text + Image**<br>
+  Prompt: "Describe what's happening in this image."<br>
+  Image: Upload a photo of a person cooking.<br>
+  Response: The chatbot will describe the scene, like "A person is cooking vegetables in a modern kitchen."<br>
 
-**Text Only**
-  Prompt: "Tell me a bedtime story about a robot and a cat."
-  Image: Leave blank.
-  Response: A short, creative bedtime story is generated.
+**Text Only**<br>
+  Prompt: "Tell me a bedtime story about a robot and a cat."<br>
+  Image: Leave blank.<br>
+  Response: A short, creative bedtime story is generated.<br>
 
-**Image Only**
-  Prompt: Leave blank.
-  Image: Upload an image of a flower.
-  Response: The chatbot may respond with something like "This appears to be a sunflower, commonly found in summer gardens."
+**Image Only**<br>
+  Prompt: Leave blank.<br>
+  Image: Upload an image of a flower.<br>
+  Response: The chatbot may respond with something like "This appears to be a sunflower, commonly found in summer gardens."<br>
